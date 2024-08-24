@@ -1,6 +1,6 @@
 # Email Queue Trigger Function for .NET Core API 
 
-This project is a .NET Core backend system that includes an Azure Function designed to process emails from a queue using an EmailQueueTrigger. The Azure Function listens for messages in an Azure Storage Queue and sends out emails based on the message content. This project is used in the [Ecommerce Backend Repository](https://github.com/Torri04/Ecommerce-Backend).
+This project is a .NET Core backend system that includes an Azure Function designed to process emails from a queue using an EmailQueueTrigger. The Azure Function listens for messages in an Azure Storage Queue and sends out emails based on the message content. This project is used in the [Ecommerce Backend Project](https://github.com/Torri04/Ecommerce-Backend).
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
