@@ -33,6 +33,11 @@ Before running the project, ensure you have the following installed:
     ```bash
     dotnet build
     ```
+4. **Run the project**:
+    ```bash
+    dotnet run
+    dotnet watch run
+    ```
 
 ## Configuration
 
