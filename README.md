@@ -15,7 +15,7 @@ Before running the project, ensure you have the following installed:
 
 - [.NET Core SDK 8.0+](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
-- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) (For deploying and managing resources on Azure)
+- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) (for deploying and managing resources on Azure)
 
 ## Setup
 
